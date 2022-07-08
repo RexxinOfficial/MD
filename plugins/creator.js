@@ -38,7 +38,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🥏 *Whatsapp* wa.me/${nomorown}
 
 `
-  let teks = 'P-Pilih dibawah kak ! >//<'
+  let teks = 'P - Pilih dibawah kak ! >///<'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
